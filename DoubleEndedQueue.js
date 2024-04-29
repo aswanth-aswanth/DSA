@@ -94,7 +94,7 @@ Output:
 Deque elements:
 10, 20
 */
-
+ 
 console.log("Removed rear element:", deque.removeRear()); // Output: 20
 
 deque.print();
